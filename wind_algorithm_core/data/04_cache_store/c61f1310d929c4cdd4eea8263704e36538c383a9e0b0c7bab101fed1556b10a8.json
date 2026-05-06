@@ -1,0 +1,1 @@
+{"__serializer__": "pydantic", "module": "core.schemas.milp", "class": "RoutingSolution", "data": {"routes": [["depot", "wtg-1", "wtg-2", "wtg-3", "depot"]], "total_cost": 77193.06442313225, "metadata": {"solver": "PULP_CBC_CMD", "status": "Optimal", "planning_horizon_hours": 72, "objective": 77193.06442313225}}}

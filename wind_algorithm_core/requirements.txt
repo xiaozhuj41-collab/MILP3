@@ -1,0 +1,10 @@
+pydantic
+pydantic-settings
+numpy
+torch
+gpytorch
+xarray
+pulp
+scikit-learn
+scikit-learn-extra
+PyYAML
