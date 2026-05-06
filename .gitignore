@@ -11,3 +11,17 @@ env/
 # IDE 配置文件
 .idea/
 .vscode/
+
+# 忽略庞大的气象和海浪原始数据
+*.nc
+wind_algorithm_core/data/01_raw_era5/
+
+# 忽略缓存和序列化数据
+*.pkl
+*.json
+wind_algorithm_core/data/04_cache_store/
+
+# 忽略编译缓存和日志
+__pycache__/
+*.log
+*.pdf
